@@ -1,5 +1,9 @@
 """OnlineCompiler URL Configuration
-
+---------------------------NITHISH--KUMARAN-S--------------------------------
+MADE BY : ------ NITHISH KUMARAN .K.C.S ------
+20BCAR0116
+NITHISHKUMARAN1@GMAIL.COM
+PROJECT @ JU(20BCAR0116)-PCL 2022-2023 copyright-c.
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
 Examples:
@@ -18,5 +22,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('pycompiler.urls')),
+    path('', include('jpycompiler.urls')),
 ]

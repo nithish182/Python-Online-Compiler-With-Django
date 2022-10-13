@@ -1,5 +1,12 @@
 """
 WSGI config for OnlineCompiler project.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+---------------------------NITHISH--KUMARAN-S--------------------------------
+MADE BY : ------ NITHISH KUMARAN .K.C.S ------
+20BCAR0116
+NITHISHKUMARAN1@GMAIL.COM
+PROJECT @ JU(20BCAR0116)-PCL 2022-2023 copyright-c.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
