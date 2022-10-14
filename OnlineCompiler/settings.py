@@ -10,7 +10,7 @@ For more information on this file,
 MADE BY : ------ NITHISH KUMARAN .K.C.S ------
 20BCAR0116
 NITHISHKUMARAN1@GMAIL.COM
-PROJECT @ JU(20BCAR0116)-PCL 2022-2023 copyright-c.
+PROJECT @ JU(20BCAR0116)-PCL 2022-2023.
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 see
